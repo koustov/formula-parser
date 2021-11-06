@@ -131,6 +131,7 @@ export const parseFormula = (expression) => {
 	defineOperator('^', Math.pow, 'infix', 5, true);
 	defineOperator('sin', Math.sin, 'prefix', 5);
 	defineOperator('cos', Math.cos, 'prefix', 5);
+	defineOperator('abs', Math.abs, 'prefix', 5);
 	defineOperator('*', multiplication, 'infix', 4);
 	defineOperator('/', division, 'infix', 4);
 	defineOperator('+', last, 'prefix', 3);

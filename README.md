@@ -92,6 +92,7 @@ It was frustrating for me when I was looking for some easy way to evaluate compl
 |,|Coma|infix|
 |^|Power|infix|
 |!|Factorial|postfix|
+|abs|Absolute|function|
 |min|Minimum|function|
 |sqrt|Square root|function|
 |sin|Sin function|prefix|

@@ -1,6 +1,6 @@
 {
-	"name": "formula-parser",
-	"version": "0.0.1",
+	"name": "js-formula-parser",
+	"version": "0.0.2",
 	"description": "A simple and small library to parse your formula and provide output",
 	"main": "index.js",
 	"scripts": {
