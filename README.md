@@ -18,7 +18,7 @@
 
 ---
 
-![GitHub watchers](https://img.shields.io/github/watchers/koustov/formula-parser.svg?logo=github&label=Watch) ![GitHub watchers](https://img.shields.io/github/issues/koustov/formula-parser?logo=github&label=Issues) ![GitHub watchers](https://img.shields.io/github/stars/koustov/formula-parser?logo=github&label=Stars) ![GitHub watchers](https://img.shields.io/npm/dt/formula-parser.svg?logo=npm&label=downloads)
+![GitHub watchers](https://img.shields.io/github/watchers/koustov/formula-parser.svg?logo=github&label=Watch) ![GitHub watchers](https://img.shields.io/github/issues/koustov/formula-parser?logo=github&label=Issues) ![GitHub watchers](https://img.shields.io/github/stars/koustov/formula-parser?logo=github&label=Stars) ![GitHub watchers](https://img.shields.io/npm/dt/js-formula-parser.svg?logo=npm&label=downloads)
 
 This is a **fully flexible** formula parser based on [`Node`](https://nodejs.org/en/)
 
